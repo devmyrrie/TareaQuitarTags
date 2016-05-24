@@ -1,0 +1,266 @@
+
+ Ciencias de la Computacion e Informatica
+ 
+    
+        CI1010 
+        Introducción a Computación e Informatica 
+        4 
+       
+    
+    
+        LM1030 
+        Ingles Intensivo I
+        4 
+       
+    
+    
+        EG0124 
+        Humanidades I
+        6 
+       
+    
+    
+        MA0129 
+        Matematica para Computacion I
+        4 
+       
+    
+    
+        EF 
+        Actividad Deportiva 
+        0 
+       
+    
+ 
+ 
+    
+        CI1101 
+        Programación I 
+        4 
+        
+    
+    
+        CI1204 
+        Estructuras Discretas Aplicadas II 
+        4 
+       
+    
+    
+        EG0125 
+        Humanidades II 
+        6 
+       
+    
+    
+        MA0229 
+        Matematica para Computacion II 
+        4 
+       
+    
+ 
+ 
+    
+        CI1201 
+        Programación II 
+        4 
+       
+    
+    
+        CI1210 
+        Diseno de Circuitos Digitales 
+        4 
+       
+    
+    
+        CI1211 
+        Lab. Diseno de Circuitos Digitales 
+        1 
+       
+    
+    
+        MA0329 
+        Matematica para Computacion III 
+        4 
+       
+    
+    
+        SR-  I 
+        Seminario de Realidad Nacional I 
+        2 
+       
+    
+    
+        EG ART 
+        Actividad Artistica 
+        2 
+       
+    
+ 
+ 
+    
+        CI1220 
+        Ensambladores y Microprocesadores 
+        4 
+       
+    
+    
+        CI1221 
+        Estructuras de Datos y Analisis de Algoritmos 
+        4 
+       
+    
+    
+        CI1352 
+        Investigacion de Operaciones I 
+        4 
+       
+    
+    
+        MA0429 
+        Matematica para Computacion IV 
+        4 
+       
+    
+    
+        SR- II 
+        Seminario de Realidad Nacional II 
+        2 
+       
+    
+ 
+ 
+    
+        CI1310 
+        Sistemas Operativos 
+        4 
+       
+    
+    
+        CI1311 
+        Lab. Sistemas Operativos 
+        1 
+       
+    
+    
+        CI1312 
+        Bases de Datos I 
+        4 
+       
+    
+    
+        CI1313 
+        Lab. Bases de Datos I 
+        1 
+       
+    
+    
+        CI1453 
+        Investigacion de Operaciones III 
+        4 
+       
+    
+    
+        EG REP 
+        Repertorio 
+        3 
+       
+    
+ 
+ 
+    
+        CI1322 
+        Automatas y Compiladores 
+        4 
+       
+    
+    
+        CI1320 
+        Redes de Computadoras 
+        4 
+       
+    
+    
+        CI1321 
+        Laboratorio de Redes de Computadoras 
+        1 
+       
+    
+    
+        CI1323 
+        Arquitecturas de Computadoras 
+        4 
+       
+    
+    
+        CI1330 
+        Ingenieria de Software 
+        4 
+       
+    
+    
+        CI1331 
+        Lab. Ingenieria de Software 
+        1 
+       
+    
+ 
+ 
+    
+        CI1441 
+        Paradigmas Computacionales 
+        4 
+       
+    
+    
+        CI 
+        Electiva 
+        4 
+       
+    
+    
+        CI 
+        Electiva 
+        4 
+       
+    
+    
+        CI1430 
+        Ingenieria de Software 
+        4 
+       
+    
+    
+        CI1431 
+        Lab. Ingenieria de Software 
+        1 
+       
+    
+ 
+ 
+    
+        CI1440 
+        Informatica y Sociedad 
+        4 
+       
+    
+    
+        CI 
+        Electiva 
+        4 
+       
+    
+    
+        CI 
+        Electiva 
+        4 
+       
+    
+    
+        CI 
+        Electiva 
+        4 
+       
+    
+ 
+
+

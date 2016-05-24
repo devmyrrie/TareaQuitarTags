@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1408333818 source:/home/joel/Escritorio/Tarea0/main.cpp
+	<iostream>
+	"FileParser.h"
+
+1408307629 source:/home/joel/Escritorio/Tarea0/parseador_de_archivo.cpp
+	"parseador_de_archivo.h"
+	<iostream>
+	<cstring>
+	<fstream>
+
+1408291278 /home/joel/Escritorio/Tarea0/parseador_de_archivo.h
+	"parseador_de_linea.h"
+	<string>
+	<map>
+
+1408306026 /home/joel/Escritorio/Tarea0/parseador_de_linea.h
+	<map>
+	<string>
+	<fstream>
+
+1408307660 source:/home/joel/Escritorio/Tarea0/parseador_de_linea.cpp
+	"parseador_de_linea.h"
+	<iostream>
+
+1408333818 source:/home/joel/Escritorio/Tarea0/FileParser.cpp
+	"FileParser.h"
+	<iostream>
+	<cstring>
+	<fstream>
+
+1408333837 /home/joel/Escritorio/Tarea0/FileParser.h
+	"LineParser.h"
+	<string>
+	<map>
+
+1408325916 /home/joel/Escritorio/Tarea0/LineParser.h
+	<map>
+	<string>
+	<fstream>
+
+1408325772 source:/home/joel/Escritorio/Tarea0/LineParser.cpp
+	"LineParser.h"
+	<iostream>
+

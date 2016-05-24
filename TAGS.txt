@@ -1,0 +1,16 @@
+</CREDITOS> => 41
+</CURSO> => 41
+</NIVEL> => 8
+</NOMBRE> => 41
+</PLAN> => 1
+</REQUISITOS> => 41
+</SIGLA> => 41
+</TITLE> => 1
+<CREDITOS> => 41
+<CURSO> => 41
+<NIVEL> => 8
+<NOMBRE> => 41
+<PLAN> => 1
+<REQUISITOS> => 41
+<SIGLA> => 41
+<TITLE> => 1

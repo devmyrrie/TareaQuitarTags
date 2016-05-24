@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="FileParser.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="568" topLine="30" />
+	</File>
+	<File name="FileParser.h" open="1" top="0" tabpos="3">
+		<Cursor position="121" topLine="1" />
+	</File>
+	<File name="LineParser.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="4022" topLine="145" />
+	</File>
+	<File name="LineParser.h" open="0" top="0" tabpos="4">
+		<Cursor position="138" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="642" topLine="3" />
+	</File>
+</CodeBlocks_layout_file>
